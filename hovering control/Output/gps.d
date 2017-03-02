@@ -1,0 +1,12 @@
+..\output\gps.o: GPS.c
+..\output\gps.o: ..\CMSIS\stm32f10x.h
+..\output\gps.o: ..\CMSIS\core_cm3.h
+..\output\gps.o: d:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\gps.o: ..\CMSIS\system_stm32f10x.h
+..\output\gps.o: ..\USER\stm32f10x_conf.h
+..\output\gps.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\gps.o: ..\CMSIS\stm32f10x.h
+..\output\gps.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\gps.o: ..\FWlib\inc\stm32f10x_tim.h
+..\output\gps.o: ..\FWlib\inc\stm32f10x_usart.h
+..\output\gps.o: ..\FWlib\inc\misc.h
